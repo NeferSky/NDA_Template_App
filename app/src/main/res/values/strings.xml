@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NDA_Template_App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="third_fragment">Third fragment</string>
+    <string name="fourth_fragment">Fourth fragment</string>
+    <string name="fifth_fragment">Fifth fragment</string>
+    <string name="sixth_fragment">Sixth fragment</string>
+
+</resources>
